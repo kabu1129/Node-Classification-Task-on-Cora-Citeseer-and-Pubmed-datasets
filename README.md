@@ -11,11 +11,11 @@ matplotlib==3.5.1
 
 ```python
 conda create -n miao python=3.8.15
-conda activate miao
+conda activate zxs
 pip install -r requirement.txt
-python cora.py
-python citeseer.py
-python pubmed.py
+python Cora.py
+python Citeseer.py
+python Pubmed.py
 ```
 
 # Result
