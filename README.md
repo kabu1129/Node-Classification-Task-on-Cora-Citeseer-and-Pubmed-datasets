@@ -1,7 +1,7 @@
 # Environment
 python==3.9.13
 ***
-pytorch==1.13.0
+pytorch==2.0.1
 
 scikit learn==1.0.2
 
