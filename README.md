@@ -1,11 +1,11 @@
 # Environment
-python==3.8.15
+python==3.9.13
 ***
 pytorch==1.13.0
 
-scikit learn==1.3.1 
+scikit learn==1.0.2
 
-matplotlib==3.5.1
+matplotlib==3.5.2
 
 # Usage
 
